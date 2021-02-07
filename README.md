@@ -15,7 +15,7 @@ Accessiblity standards must be met to ensure good business practices which allow
 Starter code retrieved from: https://github.com/coding-boot-camp/urban-octo-telegram.git
 
 # Website
-https://njthanhtrang.github.io/1.-HTML-CSS-Git-Challenge-Horiseon-Code-Refactor/
+https://njthanhtrang.github.io/1.-HTML-CSS-Git-Challenge-Code-Refactor/
 
 # License
 Copyright 2019 Horiseon Social Solution Services, Inc.
