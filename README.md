@@ -20,3 +20,7 @@ https://njthanhtrang.github.io/1.-HTML-CSS-Git-Challenge-Code-Refactor/
 # License
 Copyright 2019 Horiseon Social Solution Services, Inc.
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+<img width="1792" alt="Screen Shot 2021-02-06 at 5 13 30 PM" src="https://user-images.githubusercontent.com/77700824/107420108-66c5a180-6acd-11eb-95b4-28ada54ff7ce.png">
+<img width="1790" alt="Screen Shot 2021-02-06 at 5 13 47 PM" src="https://user-images.githubusercontent.com/77700824/107420157-71803680-6acd-11eb-894a-9f0aed3121d8.png">
+<img width="1787" alt="Screen Shot 2021-02-06 at 5 13 59 PM" src="https://user-images.githubusercontent.com/77700824/107420168-73e29080-6acd-11eb-9018-cc1a21711e91.png">
